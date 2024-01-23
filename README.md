@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">Entry-Level Java Developer with a Dedication to Growth</h3>
+<h3 align="center">Entry-Level Automation Test Engineer with a Dedication to Growth</h3>
 <img align="right" alt="Software Developing" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifakh06&label=Profile%20views&color=0e75b6&style=flat" alt="saifakh06" /> </p>
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Test NG**
 
 - 👯 I’m looking to collaborate on **Open-source Projects**
 
